@@ -8,4 +8,4 @@
 <a href="mailto:tlhylmm@gmail.com"><img alt="Gmail" title="Talha Yılmam Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlhylmm&layout=compact&theme=gotham&hide=html&card_width=330" alt="tlhylmm" /></p>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tlhylmm&layout=compact&theme=gotham&hide=html&card_width=330" alt="tlhylmm" /></p>
