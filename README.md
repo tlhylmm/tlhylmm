@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Talha</h1>
-<h4 align="center">A 3rd year Computer Engineering Student at Eskişehir Osmangazi University.</h4>
+<h4 align="center">A 4th year Computer Engineering Student at Eskişehir Osmangazi University.</h4>
 </div>
 
 ## Contact Me
